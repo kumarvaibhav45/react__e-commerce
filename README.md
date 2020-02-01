@@ -2,10 +2,10 @@
 
 ### Technologies used
 
-    >React JS
+> React JS
 
-    >Styled Component
+> Styled Component
 
-    >Bootstrap
+> Bootstrap
 
 ## Live : https://kumarvaibhav45.github.io/react_e-commerce
