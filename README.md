@@ -1,3 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# E-commerce site
 
-## E-commerce Site Designed with react js
+### Technologies used
+
+    >React JS
+
+    >Styled Component
+
+    >Bootstrap
+
+## Live : 
